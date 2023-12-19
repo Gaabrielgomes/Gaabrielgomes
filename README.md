@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gaabrielgomes
+- 👋 Hi, I’m Gabriel Gomes
 - 👀 I’m interested in finding my first job
 - 🌱 I’m currently learning web developement
   
