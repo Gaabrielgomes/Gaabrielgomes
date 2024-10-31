@@ -1,4 +1,4 @@
-<h2 align="left">Sou Gabriel, muito prazer!</h2>
+<h2 align="left">Sou Gabriel Gomes, desenvolvedor web e analista de dados. Muito prazer!</h2>
 
 ###
 
